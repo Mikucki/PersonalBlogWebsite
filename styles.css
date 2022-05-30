@@ -6,6 +6,20 @@
 }
 
 
+.contactme {
+    text-align: left;
+    font-weight: 300;
+    color: red;
+
+}
+
+
+.gmaillogo {
+    width: 40px;
+    height: auto;
+
+}
+
 .logo {
     text-align: center;
     color: aliceblue;
