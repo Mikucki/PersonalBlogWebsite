@@ -1,9 +1,4 @@
-.logobasics {
-    text-align: center;
-    font-weight: bold;
-    color: aqua;
-    
-}
+
 
 
 .contactme {
@@ -25,9 +20,25 @@
     color: aliceblue;
     
 }
-
-* {
-    border: 2px solid black;
+.contactmelogo {
+    margin-left: 50%;
+    margin-right: auto;
+    width: 40px;
+    height: auto;
 }
 
-
+.header {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border-width: 5px;
+    border-style: inset;
+    border-right-color: black;
+    border-bottom-color: black;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(141, 139, 139);
+}
