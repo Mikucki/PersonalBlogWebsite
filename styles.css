@@ -17,7 +17,6 @@
 
 .logo {
     text-align: center;
-    color: aliceblue;
     
 }
 .contactmelogo {
@@ -40,5 +39,16 @@
     color: black;
     text-align: center;
     font-weight: bold;
+    background-color: rgb(141, 139, 139);
+}
+
+p {
+    
+    margin: 0 auto;
+    padding: 20px;
+    border-width: 5px;
+    border-style: inset;
+    border-right-color: black;
+    border-bottom-color: black;
     background-color: rgb(141, 139, 139);
 }
