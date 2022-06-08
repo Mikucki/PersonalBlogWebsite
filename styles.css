@@ -1,7 +1,12 @@
 
 * {
-    display: block
-    border: 3px solid rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: dashed;
+    text-align-last: center;
+    line-break: auto;
+    text-size-adjust: auto;
+    color: aliceblue;
+    background-color: red;
 }
 
 .contactme {
